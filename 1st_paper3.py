@@ -111,7 +111,7 @@ while u_win < 3 and c_win < 3:
 #     elif who.user_c == Scissors:
 #         if who.com_c == Paper:
 #             who.user_win
-#         elif who.com_c == Rork:
+#         elif who.com_c == Rock:
 #             who_com_win
 #     elif who.user_c == Paper:
 #         if who.com_c == Rock:
